@@ -1,2 +1,4 @@
 gouda
 rye
+potato
+manchego
