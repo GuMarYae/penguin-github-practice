@@ -1,2 +1,5 @@
 gouda
 rye
+munster
+jack chedder
+swiss
